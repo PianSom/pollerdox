@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{76:function(l){l.exports=JSON.parse('{"allTagsPath":"/pollerdox/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/pollerdox/blog/tags/hello"}')}}]);
